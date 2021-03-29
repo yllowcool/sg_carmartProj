@@ -1,6 +1,6 @@
 # sg_carmartProj
 Price Prediction of Used Cars from sgcarmart
 
-To use the prediction app run 
+To use the prediction app run<br> 
 'cd streamlit_app<br>
 streamlit run app_v4_1.py'
