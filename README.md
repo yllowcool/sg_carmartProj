@@ -2,5 +2,5 @@
 Price Prediction of Used Cars from sgcarmart
 
 To use the prediction app run 
-'cd streamlit_app
+'cd streamlit_app<br>
 streamlit run app_v4_1.py'
